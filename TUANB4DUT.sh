@@ -26,13 +26,13 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet TUAN B4DUT  | lolcat
+figlet BINGGO CLAY  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
 echo -b "TYPE      : TOOLS INSTALLER $green " |lolcat
 echo -b "VERSION   : V.3 " | lolcat
 echo -b "TOTALS    : 311 TOOLS " | lolcat
-echo -b "AUTHOR    : BINGGOCLAY $green " |lolcat
+echo -b "AUTHOR    : BINGGO CLAY $green " |lolcat
 echo -b "ASSOCIATE : INDONESIAN TERMUX ASSOCIATION $green " |lolcat
 echo -b "ASSOCIATE : INDONESIAN TERMUX TUTORIAL $green " |lolcat
 echo -b "ASSOCIATE : INDONESIAN DARK TERMUX ASSOCIATE $green " |lolcat
